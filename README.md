@@ -19,7 +19,7 @@ Git clone https://github.com/GG20905/phase1project
 
 
 # Live Link
-[Git](gh-pages link)
+https://heartfelt-fox-263f0c.netlify.app
 
 ## Technologies used
 Github
